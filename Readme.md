@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей](https://up.htmlacademy.ru/htmlcss/27/user/1236885).
-* Наставник: `Неизвестно`.
+* Наставник: Никита Сигов. (https://htmlacademy.ru/profile/crazer)
 
 ---
 
